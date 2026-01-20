@@ -1,0 +1,40 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(124, 113, 161);
+    color: rgb(15, 15, 80);
+    text-align: center;
+    padding: 25px;
+}
+
+section {
+    background-color: rgb(124, 113, 161);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    color: black;
+}
+
+ul {
+    list-style-type: disc;
+}    
+
+footer {
+    background-color:rgb(124, 113, 161) ;
+    text-align: center;
+    padding: 15px;
+}
+    
+
